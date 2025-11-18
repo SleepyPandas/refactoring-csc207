@@ -75,3 +75,27 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+/target/classes/theater/Constants.class
+/.idea/copilot.data.migration.agent.xml
+/.idea/copilot.data.migration.ask.xml
+/.idea/copilot.data.migration.ask2agent.xml
+/.idea/copilot.data.migration.edit.xml
+/.idea/deployment.xml
+/.idea/discord.xml
+/target/test-classes/ExampleStatement.txt
+/target/test-classes/ExampleStatementWithNewPlays.txt
+/target/test-classes/theater/HTMLPrinterTests.class
+/target/test-classes/HTMLStatementExample.html
+/target/classes/theater/Invoice.class
+/target/test-classes/invoices.json
+/.idea/misc.xml
+/target/test-classes/new_invoices.json
+/target/test-classes/new_plays.json
+/target/test-classes/theater/NewPlayTypeTests.class
+/target/classes/theater/Performance.class
+/target/classes/theater/Play.class
+/target/test-classes/plays.json
+/refactoring.iml
+/target/classes/theater/StatementPrinter.class
+/target/test-classes/theater/StatementPrinterTests.class
+/.idea/webServers.xml
